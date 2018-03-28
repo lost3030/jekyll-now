@@ -32,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-3-27-考拉豆签到.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="310">
-                <caret line="31" column="70" lean-forward="false" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -767,16 +767,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522133272278</updated>
-      <workItem from="1522133274749" duration="4289000" />
+      <workItem from="1522133274749" duration="5072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4289000" />
+    <option name="totallyTimeSpent" value="5072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="965" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -830,8 +830,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-3-27-考拉豆签到.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="31" column="70" lean-forward="false" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
